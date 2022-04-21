@@ -42,8 +42,6 @@ TEMPLATE = '{"tag": "_modifire",\
 "bold": _bold,\
 "italic": _italic},'
 
-#.hR test
-
 
 def main():
     output = ''
